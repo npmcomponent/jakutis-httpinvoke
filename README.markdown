@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [jakutis/httpinvoke](http://github.com/jakutis/httpinvoke). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/jakutis-httpinvoke`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # httpinvoke
 
 A 4.8kb no-dependencies HTTP client library for browsers and Node.js with a promise-based or Node.js-style callback-based API to progress events, text and binary file upload and download, partial response body, request and response headers, status code.
